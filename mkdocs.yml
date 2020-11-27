@@ -6,3 +6,5 @@ nav:
     - Smoothie: smoothie.md
     - Cafè: cafe.md
     - About: about.md
+    
+theme: flatly
