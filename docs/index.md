@@ -5,7 +5,6 @@ En aquesta pàgina web us mostrem una degustació de la carta de la Cantina de l
 
 Al menú podeu trobar les diferents **receptes** de la cantina.
 
-
 ## Descripció
 
 L’Institut Pedralbes és un centre públic depenent del Departament d’Educació de la Generalitat de Catalunya. Està situat al barri de Pedralbes en el districte de Les Corts. És un centre adaptat.
@@ -23,4 +22,5 @@ També paren a prop el JM (JustMetro), EP1 d’Esplugues, L14 de L’Hospitalet,
 ## Contacte
         
 Per a més informació visita [IES Pedralbes](https://www.institutpedralbes.cat)
+
 
