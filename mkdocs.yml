@@ -1,1 +1,8 @@
-site_name: My Docs
+site_name: Receptes
+nav:
+    - Botifarra: botifarra.md
+    - Formatge: formatge.md
+    - Kebab: kebab.md
+    - Smoothie: smoothie.md
+    - Cafè: cafe.md
+
